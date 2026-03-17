@@ -1,6 +1,6 @@
-# Projetos Ligados ao Campus Natal Entral do IFRN
+# Projetos Ligados ao Campus Natal Central do IFRN
 
-## Curso Técnico em Informática para Internet (InfoWeb)
+## Curso Técnico em Informática para Internet (InfoWeb/DIATINF)
 
 ### Disciplina de Análise e Projeto Orientado a Objetos (APOO)
 
