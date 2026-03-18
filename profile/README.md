@@ -4,7 +4,12 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 
 ---
 
-# Curso Técnico em Informática para Internet (InfoWeb/DIATINF)
+<table border="0">
+  <tr>
+    <td><img src="./infoweb.jpeg"/></td>
+    <td><h1>Curso Técnico em Informática para Internet (InfoWeb/DIATINF)</h1></td>
+  </tr>
+</table>
 
 ## Disciplina de Análise e Projeto Orientado a Objetos (APOO)
 
