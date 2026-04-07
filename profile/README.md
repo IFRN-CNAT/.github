@@ -17,6 +17,6 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 
 | Nome do Projeto | Link do Repositório | Membros |
 |  ---  |  ---  |  ---  |
-| Projeto XYZ | https://github.com/IFRN-CNAT/apoo-26-xyz | Cicrano, Fulano e Beltrano |
+| Projeto ENEM Lá Vou Eu | https://github.com/PI-InfoWeb-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
 
 ---
