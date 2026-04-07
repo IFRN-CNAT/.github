@@ -17,6 +17,6 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 
 | Nome do Projeto | Link do Repositório | Membros |
 |  ---  |  ---  |  ---  |
-| Projeto ENEM Lá Vou Eu | https://github.com/PI-InfoWeb-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
+| Projeto ENEM Lá Vou Eu | https://github.com/IFRN-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
 
 ---
