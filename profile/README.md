@@ -11,15 +11,15 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
   </tr>
 </table>
 
-## Disciplina de Análise e Projeto Orientado a Objetos (APOO)
+## 1. Disciplina de Análise e Projeto Orientado a Objetos (APOO)
 
-### Projetos para o ano de 2026
+### 1.1 Projetos para o ano de 2026
 
 | Nome do Projeto | Link do Repositório | Membros |
 | --- | --- | --- |
 | ENEM Lá Vou Eu | https://github.com/IFRN-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
-----
-#### APOO turma das 13h
+---
+#### 1.1.1 APOO turma das 13h
 
 | Nome do Projeto | Link do Repositório | Membros |
 | --- | --- | --- |
@@ -28,8 +28,8 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 | **Reciclo** | ... | (1) Fabrício Araújo;</br> (2) Eduardo dos Santos;</br> (3) Abraão Vital;</br> (4) Gabriel Henrique e</br> (5)Pedro Gabriel |
 | **FlowMind** | ... | (1) João Rafael;</br> (2) Artur Bezerra;</br> (3) Adryel Ferreira e</br> (4) Jaziel Marcelo |
 | **Routine Tracker** | ... | (1) Heitor Egito;</br> (2) Iuri Magno;</br> (3) João Lucas;</br> (4) Jennyfe Hilary e</br> (5) Ana Raquel |
-----
-#### APOO turma das 14h30
+---
+#### 1.1.2 APOO turma das 14h30
 
 | Nome do Projeto | Link do Repositório | Membros |
 | --- | --- | --- |
