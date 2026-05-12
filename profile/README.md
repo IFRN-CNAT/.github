@@ -16,7 +16,29 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 ### Projetos para o ano de 2026
 
 | Nome do Projeto | Link do Repositório | Membros |
-|  ---  |  ---  |  ---  |
-| Projeto ENEM Lá Vou Eu | https://github.com/IFRN-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
+| --- | --- | --- |
+| ENEM Lá Vou Eu | https://github.com/IFRN-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
+----
+#### APOO turma das 13h
+
+| Nome do Projeto | Link do Repositório | Membros |
+| --- | --- | --- |
+| **Xadrez do RN** | ... | (1) Matheus Medeiros;</br> (2) Emanuel de Melo;</br> (3) Isac Manoel;</br> (4) Alisson Rafael e</br> (5) Isabella Rodrigues |
+| **IF Talk** | ... | (1) Heitor Mascena;</br> (2) Arthur Ferreira;</br> (3) José Ludcledson e</br> (4) Allaphy Ricardo |
+| **Reciclo** | ... | (1) Fabrício Araújo;</br> (2) Eduardo dos Santos;</br> (3) Abraão Vital;</br> (4) Gabriel Henrique e</br> (5)Pedro Gabriel |
+| **FlowMind** | ... | (1) João Rafael;</br> (2) Artur Bezerra;</br> (3) Adryel Ferreira e</br> (4) Jaziel Marcelo |
+| **Routine Tracker** | ... | (1) Heitor Egito;</br> (2) Iuri Magno;</br> (3) João Lucas;</br> (4) Jennyfe Hilary e</br> (5) Ana Raquel |
+----
+#### APOO turma das 14h30
+
+| Nome do Projeto | Link do Repositório | Membros |
+| --- | --- | --- |
+| **SaveCats** | ... | (1) Yasmim Emanuelly;</br> (2) Samara Cristina;</br> (3) Thales Ruan e</br> (4) Julia Antonelly |
+| **Financas Pessoais** | ... | (1) Juan Davi;</br> (2) Talia Apaza e</br> (3) Elverty Alberton |
+| **Fome Zero RN** | ... | (1) Lilian Vitória;</br> (2) Joyce Wellen e</br> (3) Rebeka Araújo |
+| **IF-Quest** | ... | (1) Rafael Santos;</br> (2) Leonardo Gueli e</br> (3) Osvaldo Henrique |
+| **Chamado do Mestre** | ... | (1) Thalis Emanuel;</br> (2) Kauan Jhonatas;</br> (3) José Hiago e</br> (4) Pedro Cabral |
+
+
 
 ---
