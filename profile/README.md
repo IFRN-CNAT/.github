@@ -33,11 +33,11 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 
 | Nome do Projeto | Link do Repositório | Membros |
 | --- | --- | --- |
-| **SaveCats** | ... | (1) Yasmim Emanuelly;<br/> (2) Samara Cristina e<br/> (3) Julia Antonelly |
-| **Financas Pessoais** | ... | (1) Juan Davi;<br/> (2) Talia Apaza;<br/> (3) Elverty Alberton e<br/> (4) Ranielly Brito |
-| **Fome Zero RN** | ... | (1) Lilian Vitória;<br/> (2) Joyce Wellen e<br/> (3) Rebeka Araújo |
-| **IF-Quest** | ... | (1) Rafael Santos;<br/> (2) Leonardo Gueli;<br/> (3) Osvaldo Henrique e<br/> (4) Thales Ruan |
-| **Chamado do Mestre** | ... | (1) Thalis Emanuel;<br/> (2) Kauan Jhonatas;<br/> (3) José Hiago e<br/> (4) Pedro Cabral |
+| **SaveCats** | https://github.com/IFRN-CNAT/apoo26-SaveCats | (1) Yasmim Emanuelly;<br/> (2) Samara Cristina e<br/> (3) Julia Antonelly |
+| **Financas Pessoais** | https://github.com/IFRN-CNAT/apoo26-Financas-Pessoais | (1) Juan Davi;<br/> (2) Talia Apaza;<br/> (3) Elverty Alberton e<br/> (4) Ranielly Brito |
+| **Fome Zero RN** | https://github.com/IFRN-CNAT/apoo26-Fome-Zero-RN | (1) Lilian Vitória;<br/> (2) Joyce Wellen e<br/> (3) Rebeka Araújo |
+| **IF-Quest** | https://github.com/IFRN-CNAT/apoo26-IF-Quest | (1) Rafael Santos;<br/> (2) Leonardo Gueli;<br/> (3) Osvaldo Henrique e<br/> (4) Thales Ruan |
+| **Chamado do Mestre** | https://github.com/IFRN-CNAT/apoo26-Chamado-do-Mestre | (1) Thalis Emanuel;<br/> (2) Kauan Jhonatas;<br/> (3) José Hiago e<br/> (4) Pedro Cabral |
 
 
 
