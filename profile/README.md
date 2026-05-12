@@ -23,11 +23,11 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 
 | Nome do Projeto | Link do Repositório | Membros |
 | --- | --- | --- |
-| **Xadrez do RN** | ... | (1) Matheus Medeiros;</br> (2) Emanuel de Melo;</br> (3) Isac Manoel;</br> (4) Alisson Rafael e</br> (5) Isabella Rodrigues |
-| **IF Talk** | ... | (1) Heitor Mascena;</br> (2) Arthur Ferreira;</br> (3) José Ludcledson e</br> (4) Allaphy Ricardo |
-| **Reciclo** | ... | (1) Fabrício Araújo;</br> (2) Eduardo dos Santos;</br> (3) Abraão Vital;</br> (4) Gabriel Henrique e</br> (5)Pedro Gabriel |
-| **FlowMind** | ... | (1) João Rafael;</br> (2) Artur Bezerra;</br> (3) Adryel Ferreira e</br> (4) Jaziel Marcelo |
-| **Routine Tracker** | ... | (1) Heitor Egito;</br> (2) Iuri Magno;</br> (3) João Lucas;</br> (4) Jennyfe Hilary e</br> (5) Ana Raquel |
+| **Xadrez do RN** | https://github.com/IFRN-CNAT/apoo26-Xadrez-do-RN | (1) Matheus Medeiros;</br> (2) Emanuel de Melo;</br> (3) Isac Manoel;</br> (4) Alisson Rafael e</br> (5) Isabella Rodrigues |
+| **IF Talk** | https://github.com/IFRN-CNAT/apoo26-IF-Talk | (1) Heitor Mascena;</br> (2) Arthur Ferreira;</br> (3) José Ludcledson e</br> (4) Allaphy Ricardo |
+| **Reciclo** | https://github.com/IFRN-CNAT/apoo26-Reciclo | (1) Fabrício Araújo;</br> (2) Eduardo dos Santos;</br> (3) Abraão Vital;</br> (4) Gabriel Henrique e</br> (5)Pedro Gabriel |
+| **FlowMind** | https://github.com/IFRN-CNAT/apoo26-FlowMind | (1) João Rafael;</br> (2) Artur Bezerra;</br> (3) Adryel Ferreira e</br> (4) Jaziel Marcelo |
+| **Routine Tracker** | https://github.com/IFRN-CNAT/apoo26-Routine-Tracker | (1) Heitor Egito;</br> (2) Iuri Magno;</br> (3) João Lucas;</br> (4) Jennyfe Hilary e</br> (5) Ana Raquel |
 ---
 #### 1.1.2 APOO turma das 14h30
 
