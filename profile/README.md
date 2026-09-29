@@ -18,6 +18,7 @@ Os repositórios desta organização estão organizados por **cursos** ou por **
 | Nome do Projeto | Link do Repositório | Membros |
 | --- | --- | --- |
 | ENEM Lá Vou Eu | https://github.com/IFRN-CNAT/apoo26-ENEMLaVouEu | prof. Fellipe |
+| Meu Acervo de Livros | https://github.com/IFRN-CNAT/apoo26-MeuAcervoLivros | prof. Fellipe |
 ---
 #### 1.1.1 APOO turma das 13h
 
